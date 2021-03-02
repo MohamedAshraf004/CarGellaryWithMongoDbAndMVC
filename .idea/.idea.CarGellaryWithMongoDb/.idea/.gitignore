@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.CarGellaryWithMongoDb.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Developing\web\Developing proj\CarGellaryWithMongoDb\.idea\.idea.CarGellaryWithMongoDb\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
